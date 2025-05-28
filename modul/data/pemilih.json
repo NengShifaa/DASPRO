@@ -1,0 +1,14 @@
+[
+    {
+        "id": "PM001",
+        "nama": "SINDI",
+        "jurusan": "TI",
+        "sudah_memilih": true
+    },
+    {
+        "id": "PM002",
+        "nama": "RAHAYU",
+        "jurusan": "PGSD",
+        "sudah_memilih": false
+    }
+]
